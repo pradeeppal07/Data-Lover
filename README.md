@@ -1,2 +1,6 @@
 # ppal.github.io
-Data Analyst | Data Scientist
+
+Machine Learning Project 
+
+1. Human Activity Recognition(
+
